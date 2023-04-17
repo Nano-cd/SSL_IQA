@@ -41,3 +41,14 @@ adjusted according to the path in your computer, etc.
 
 In this paper, we propose a semi-supervised NR-IQA framework, termed SSLIQA, for authentically distorted images.SSLIQA adopts an asymmetric parallel dual-branch structure,and its success lies in simultaneously exploiting both labeled and unlabeled images with the assistance of a consistency preserving strategy. Concretely, such a strategy, inspired by the subjective scoring behaviors, enforces the student to mimic activations of the teacher, and helps to explore the intrinsic relation between images. Extensive experiments and ablation studies demonstrate that our SSLIQA is superior to ten state of-the-art NR-IQA methods with considerable effectiveness
 and generalization. Moreover, benefiting from the consistency preserving strategy and the asymmetric network structure, our SSLIQA can effectively exploit the unlabeled data to achieve higher IQA performance with a smaller network. This points to an interesting avenue for future work.
+
+### Citation
+```
+@article{yue2022semi,
+  title={Semi-supervised authentically distorted image quality assessment with consistency-preserving dual-branch convolutional neural network},
+  author={Yue, Guanghui and Cheng, Di and Li, Leida and Zhou, Tianwei and Liu, Hantao and Wang, Tianfu},
+  journal={IEEE Transactions on Multimedia},
+  year={2022},
+  publisher={IEEE}
+
+```
