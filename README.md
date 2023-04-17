@@ -50,5 +50,5 @@ and generalization. Moreover, benefiting from the consistency preserving strateg
   journal={IEEE Transactions on Multimedia},
   year={2022},
   publisher={IEEE}
-
+}
 ```
